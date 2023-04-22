@@ -1,0 +1,96 @@
+{
+  "name": "zustand-snippet",
+  "displayName": "Zustand Snippet",
+  "description": "Simple zustand snippet",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/zst/create-store-js.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/zst/create-store-js.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/zst/create-store-js.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/zst/create-store-ts.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/zst/create-store-ts.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/zst/declare-store-js.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/zst/declare-store-js.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/zst/declare-store-js.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/zst/declare-store-js.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/zst/declare-store-js.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/zus/create-store-js.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/zus/create-store-js.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/zus/create-store-js.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/zus/create-store-ts.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/zus/create-store-ts.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/zus/declare-store-js.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/zus/declare-store-js.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/zus/declare-store-js.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/zus/declare-store-js.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/zus/declare-store-js.json"
+      }
+    ]
+  }
+}

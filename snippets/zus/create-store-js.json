@@ -1,0 +1,15 @@
+{
+  "zustand create store": {
+    "prefix": "zus",
+    "body": [
+      "import { create } from 'zustand'",
+      "",
+      "export const use${1:YourStore} = create((set)=>({",
+      "  ${2:yourState} : 'VALUE',",
+      "  ${3:yourAction} : (val) => set( (state) => ({ state.${2:yourState} }) )",
+      "}))",
+      ""
+    ],
+    "description": "Create Zustand Store"
+  }
+}

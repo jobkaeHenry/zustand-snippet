@@ -1,0 +1,19 @@
+{
+  "zustand create store": {
+    "prefix": "zst",
+    "body": [
+      "import { create } from 'zustand'",
+      "",
+      "interface ${1:yorestore} {",
+      "  ${2:yourState} : any;",
+      "  ${3:yourAction} : (val : any) => void;",
+      "}",
+      "export const use${1:YourStore} = create<${1:yorestore}>((set)=>({",
+      "  ${2:yourState} : 'VALUE',",
+      "  ${3:yourAction} : (val) => set( (state) => ({ state.${2:yourState} }) )",
+      "}))",
+      ""
+    ],
+    "description": "Create Zustand Store"
+  }
+}

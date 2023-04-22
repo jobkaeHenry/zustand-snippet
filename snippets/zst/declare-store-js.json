@@ -1,0 +1,9 @@
+{
+  "zustand create store": {
+    "prefix": "zstconst",
+    "body": [
+      "const ${2:state} = use${1:State}store((state) => state.${2:state})"
+    ],
+    "description": "Declare Zustand Store as const"
+  }
+}
