@@ -18,8 +18,6 @@ https://www.youtube.com/@jobkaeHenry
 
 
 
-
-
 ## Release Notes
 ### 1.0.0 
 ######2023 - 04 - 23
@@ -28,7 +26,9 @@ Initial release of supporting zus , zst, zusconst, zstconst
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Github](https://github.com/jobkaeHenry/zustand-snippet)
+* [Publisher Youtube](https://www.youtube.com/@jobkaeHenry)
+* [Publisher Github](https://github.com/jobkaeHenry)
+* [Publisher LinkedIn](https://www.linkedin.com/in/jobkaehenry)
 
 **Enjoy!**
