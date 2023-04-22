@@ -6,7 +6,7 @@
       "",
       "export const use${1:YourStore} = create((set)=>({",
       "  ${2:yourState} : 'VALUE',",
-      "  ${3:yourAction} : (val) => set( (state) => ({ state.${2:yourState} }) )",
+      "  ${3:yourAction} : (val) => set( (state) => ({ ${2:yourState} : state.${2:yourState} }) )",
       "}))",
       ""
     ],

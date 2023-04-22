@@ -3,6 +3,8 @@
 Zustand Snippet is created for subscriber of '잡캐헨리' youtube
 https://www.youtube.com/@jobkaeHenry
 
+## [1.0.1]
+- minor bug hotfix
 
 ## [1.0.0]
 

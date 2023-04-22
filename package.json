@@ -2,9 +2,15 @@
   "name": "zustand-snippet",
   "displayName": "Zustand Snippet",
   "description": "Simple zustand snippet",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "publisher": "jobkaeHenry",
   "engines": {
     "vscode": "^1.77.0"
+  },
+  "icon": "icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jobkaeHenry/zustand-snippet"
   },
   "categories": [
     "Snippets"

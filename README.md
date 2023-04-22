@@ -1,9 +1,9 @@
 # Zustand Snippet
-It supports simple snippets used in Zustand such as create store, useStore, etc. 
-It supports JS, React JS, TS, React TS, and Vue support is currently under testing.
+It supports simple snippets used in Zustand such as create store, useStore, etc.
+It supports JS,JSX, TS, TSX, and Vue support is currently under testing.
 
  Zustand 에 사용되는 간단한 Snippet ex) create store, useStore .. etc을 지원합니다
-JS, React JS, TS, React TS 를 지원하며 Vue에서의 지원은 테스트중입니다
+JS,JSX, TS, TSX 를 지원하며 Vue에서의 지원은 테스트중입니다
 
 > Ps : Zustand Snippet 은 '잡캐헨리' 유튜브 구독자님들을 위해 만들었습니다.
 (Zustand Snippet is created for subscribers of 'JobKaeHenry' YouTube channel)
