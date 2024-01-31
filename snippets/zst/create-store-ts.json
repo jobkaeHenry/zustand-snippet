@@ -4,11 +4,11 @@
     "body": [
       "import { create } from 'zustand'",
       "",
-      "interface ${1:yorestore} {",
+      "interface ${1:YourStore} {",
       "  ${2:yourState} : any;",
       "  ${3:yourAction} : (val : any) => void;",
       "}",
-      "export const use${1:YourStore} = create<${1:yorestore}>((set)=>({",
+      "export const use${1:YourStore} = create<${1:YourStore}>((set)=>({",
       "  ${2:yourState} : 'VALUE',",
       "  ${3:yourAction} : (val) => set( (state) => ({ ${2:yourState} : state.${2:yourState} }) )",
       "}))",
